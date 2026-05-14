@@ -1,0 +1,23 @@
+.Header-box {
+    width:100vw;
+    height: 25vh;
+    display:flex;
+    flex-direction: row;
+}
+
+.Logo-box {
+    width: 25%;
+    height: 60%;
+}
+
+.nav-bar {
+    width: 60%;
+    height: 30%;
+    flex-direction: row;
+}
+
+.nav-item {
+    width: 30%;
+    height: 60%;
+    padding: 10%;
+}
